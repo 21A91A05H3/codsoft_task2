@@ -1,0 +1,204 @@
+*{
+	margin:2px;
+}
+.header{
+	background-color:pink;
+	float: left;
+	height:50px;
+	width:1250px;
+	color:blue;
+	position: absolute;
+	left:4px;
+	font-size: 45px;
+	font-weight: bold;
+	font-style: italic;
+}
+.topics{
+	float: right;
+	height:100px;
+	position: relative;
+	right: 10px;
+	font-size:20px;
+}
+.d1{
+	float: right;
+	color:white;
+	height:100px;
+	position: relative;
+	top:5px;
+	font-size: 25px;
+
+}
+.b1{
+	height: 650px;
+	width:1250px;
+	background-color:lightgreen;
+}
+#about{
+	background-color: lightgrey;
+	height:200px;
+	width:1250px;
+}
+
+#certificates{
+	height:600px;
+	width:1250px;
+	background-color: pink;
+}
+#skills{
+	height:500px;
+	width:1250px;
+	background-color:lightgrey;
+}
+#contact{
+	height:200px;
+	width:1250px;
+	background-color:lightgreen;
+}
+#images{
+	height: 500px;
+	width: 500px;
+	border-radius:20px;
+	position: relative;
+	top:100px;
+	left:40px;
+	float: left;
+	border:5px solid pink;
+}
+.h1{
+	float: right;
+	color:black;
+	font-size: 90px;
+	position: relative;
+	right:100px;
+	top:70px;
+
+}
+.h2{
+	color:black;
+	font-size: 30px;
+	position: relative;
+	top:100px;
+	left:100px;
+}
+.h3{
+	position: relative;
+	top:150px;
+	color:black;
+	font-size: 40px;
+	left:200px;
+	float: left;
+}
+.s1{
+	border:1px solid black;
+	height: 100px;
+	width:100px;
+	border-radius: 60px;
+	float: right;
+	position: relative;
+	top:200px;
+	right:50px;
+	background-color: pink;
+}
+.s2{
+	height: 50px;
+	width: 50px;
+	border:1px solid black;
+	background-color: pink;
+	position: relative;
+	top:300px;
+	left:300px;
+	float: left;
+	border-radius: 60px;
+}
+.s3{
+	height: 30px;
+	width: 30px;
+	border:1px solid black;
+	background-color: pink;
+	position: relative;
+	top:350px;
+	left:300px;
+	float: left;
+	border-radius: 60px;
+}
+.p1{
+	color:black;
+	font-size: 20px;
+}
+.head{
+	color:blue;
+	font-weight: bold;
+}
+
+.i1,.i2,.i3{
+	float: left;
+	margin:5px;
+}
+
+.i6{
+	float: left;
+	margin: 20px;
+}
+.i7{
+	float: right;
+	margin: 20px;
+}
+.i8{
+	float: left;
+	margin: 20px;
+}
+.i9{
+	float: left;
+	margin: 20px;
+}
+.i10{
+	float: right;
+	margin: 20px;
+}
+
+.u1{
+	font-size: 20px;
+	float: left;
+	position: relative;
+	left:40px;
+	width:500px;
+}
+.u2{
+	font-size: 20px;
+	float: right;
+	width:500px;
+	position: relative;
+	right:30px;
+}
+.f1{
+	font-size: 20px;
+	font-weight: bold;
+}
+.f2{
+	font-size: 20px;
+	font-weight: bold;
+}
+.f3{
+	font-size: 20px;
+	font-weight: bold;
+}
+#footer{
+	background-color: grey;
+	height: 50px;
+	font-size: 20px;
+	padding-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
